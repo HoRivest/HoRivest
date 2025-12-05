@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0bdcff,100:2879ff&height=250&section=header&text=Hong%20SungHoon&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=40" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0bdcff,100:2879ff&height=250&section=header&text=Hong%20SeongHun&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=40" />
 </p>
 
 <br/>
