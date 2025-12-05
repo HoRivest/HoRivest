@@ -7,7 +7,7 @@
 
 ## 💫 About Me
 안녕하세요!  
-**Hong SungHoon | Computer Engineering (AI)**  
+**Hong Seong Hun | Computer Engineering (AI)**  
 프론트엔드/백엔드/AI를 넘나들며 **문제를 끝까지 해결하는 개발자**입니다.  
 요즘은 **React, Spring Boot, ChatGPT API를 활용한 서비스 자동화**에 관심이 많습니다.
 
